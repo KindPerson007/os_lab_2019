@@ -56,7 +56,7 @@
 
 1. [Мануал для exec](http://man7.org/linux/man-pages/man3/exec.3.html)
 2. [Небольшой пример, как комбинировать fork и exec](https://ece.uwaterloo.ca/~dwharder/icsrts/Tutorials/fork_exec/)
-
+с
 <!--
 ## Задание 6
 
